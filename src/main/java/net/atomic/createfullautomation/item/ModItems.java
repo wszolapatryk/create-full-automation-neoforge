@@ -14,6 +14,12 @@ public class ModItems {
 
     public static final RegistryObject<Item> INKBOTTLE = ITEMS.register("ink_bottle",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> GLOWINKBOTTLE = ITEMS.register("glow_ink_bottle",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COSMICSOOT = ITEMS.register("cosmic_soot",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> VOIDGOO = ITEMS.register("void_goo",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
