@@ -2,7 +2,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "createmoreautomation:glowinkbottle"
+      "item": "createfullautomation:glowinkbottle"
     },
     {
       "item": "minecraft:lapis_lazuli"

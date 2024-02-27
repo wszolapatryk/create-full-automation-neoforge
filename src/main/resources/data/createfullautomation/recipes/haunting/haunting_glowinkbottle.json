@@ -2,12 +2,12 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "item": "createmoreautomation:ink_bottle"
+      "item": "createfullautomation:ink_bottle"
     }
   ],
   "results": [
     {
-      "item": "createmoreautomation:glow_ink_bottle"
+      "item": "createfullautomation:glow_ink_bottle"
     }
   ]
 }
